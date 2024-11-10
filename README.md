@@ -15,8 +15,3 @@
 </ul>
 
 
-<style>
-        p {
-            text-indent: 30px; /* Adjust the value as needed */
-        }
-    </style>
